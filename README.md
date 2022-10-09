@@ -7,12 +7,17 @@
 <h3 align="center">🇦🇷 Argentina 🇦🇷</h3>
 <br>
 
+<p>
+Hey there, I'm Nahuel Rosas, a 26 years old offering excelent analytical skills and the ability to abtract algorithm's logic and transcribing to coding as well as ease in problem solving. 
+</p>
+
+- 💪 Flexibility and adaptability. Ready to face any challenge
 
 - 🔭 I’m currently working on [Soy Henry](https://www.soyhenry.com/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 Learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [PECF](https://github.com/PECF)
+- 👯 Looking to collaborate on [PECF](https://github.com/PECF)
 
 - 💬 Ask me about **React, Javascript, MongoDB, Python**
 
