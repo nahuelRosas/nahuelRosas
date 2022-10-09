@@ -1,8 +1,7 @@
 <!-- # Hello There!! -->
 
 <!-- [<img align='right' width="200"  alt="giphy" src="./assets/cfh.gif?raw=true">](https://linkedin.com/in/nahuelrosas) -->
-
-<img align="center" src=https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif alt= "Hello There">
+<p align="center"><img align="center" src=https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif alt= "Hello There"></p>
 </a> </p>
 <br>
 <h3 align="center">🇦🇷 Argentina 🇦🇷</h3>
@@ -65,8 +64,8 @@
 <p align="center"><a href="https://github.com/pulls?q=is%3Apr+author%3AnahuelRosas+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahuelRosas&theme=github_dark&utcOffset=3"  width="31%" alt="@nahuelRosass productive-time"/></a><a href="https://github.com/issues?q=is%3Aissue+author%3AnahuelRosas+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahuelRosas&theme=github_dark&hide_border=true"  width="64%" alt="@nahuelRosas profile-details"/></a></p>
 
 <br>
+<p align="center"><img src="https://github.com/nahuelRosas/nahuelRosas/blob/output/github-contribution-grid-snake.svg" alt="Snake"></p>
 
-![snake gif](https://github.com/nahuelRosas/nahuelRosas/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
