@@ -1,10 +1,10 @@
 <!-- # Hello There!! -->
 
 <!-- [<img align='right' width="200"  alt="giphy" src="./assets/cfh.gif?raw=true">](https://linkedin.com/in/nahuelrosas) -->
-<p align="center"><img align="center" src=https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif alt= "Hello There"></p>
+<!--<p align="center"><img align="center" src=https://media1.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif alt= "Hello There"></p>
 </a> </p>
 <br>
-<h3 align="center">🇦🇷 Argentina 🇦🇷</h3>
+<h3 align="center">🇦🇷 Argentina 🇦🇷</h3> -->
 <br>
 
 <p>
