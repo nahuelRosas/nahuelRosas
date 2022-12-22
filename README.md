@@ -15,13 +15,13 @@ Hey there, I'm Nahuel Rosas, a 26 years old offering excelent analytical skills 
 
 - 🔭 I’m currently working on [Soy Henry](https://www.soyhenry.com/)
 
-- 🌱 Learning **TypeScript**
+- 🌱 Learning **AWS**
 
 - 👯 Looking to collaborate on [PECF](https://github.com/PECF)
 
-- 💬 Ask me about **React, Javascript, MongoDB, Python**
+- 💬 Ask me about **React, Typescript, AWS, Python, Firebase**
 
-- 📫 How to reach me **nahuel.rosas21@gmail.com**
+- 📫 How to reach me **nahuel.rosas@mi.unc.edu.com**
 
 <br>
 
