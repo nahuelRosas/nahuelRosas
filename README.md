@@ -13,9 +13,9 @@ Hey there, I'm Nahuel Rosas, a 26 years old offering excelent analytical skills 
 
 - 💪 Flexibility and adaptability. Ready to face any challenge
 
-- 🔭 I’m currently working on [Soy Henry](https://www.soyhenry.com/)
+- 🔭 I’m currently working on [SkyQuick](https://sky-quick.vercel.app/)
 
-- 🌱 Learning **AWS**
+- 🌱 Learning **AWS & Firebase**
 
 - 👯 Looking to collaborate on [PECF](https://github.com/PECF)
 
