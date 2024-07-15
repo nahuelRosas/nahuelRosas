@@ -24,17 +24,11 @@ Visit my [Portfolio](https://nahuelrosas.ar)
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Robust UI](https://github.com/nahuelrosas/robust-ui)  
+- 🔭 I’m currently working on [Bigger](https://www.biggertech.co/) and [Keizai](https://github.com/keizai-tools)
   
-
 - 🌱 I’m currently learning Spring and Kubernetes  
-
-
-</td><td valign="top" width="50%">
-
-
 
 </td></tr></table>  
 
@@ -97,15 +91,7 @@ Visit my [Portfolio](https://nahuelrosas.ar)
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nahuelrosas&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelrosas&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+![Nahuel GitHub stats](https://github-readme-stats.vercel.app/api?username=nahuelRosas&show_icons=true&theme=radical)
 
 <br/>  
 
