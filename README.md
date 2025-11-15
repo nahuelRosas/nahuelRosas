@@ -85,6 +85,15 @@ Full-Stack Development
 </a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/gemini-functions-agent" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=gemini-functions-agent&theme=tokyonight" alt="gemini-functions-agent" />
+</a>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 <h3 align="center">GitHub Stats</h3>
