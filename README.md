@@ -24,7 +24,7 @@ Cloud, DevOps & Orchestration
 <td width="25%" valign="top" align="center">
 Backend
 <p align="center">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=.white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -91,6 +91,9 @@ Full-Stack Development
 </a>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/portfolio" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=portfolio&theme=tokyonight" alt="portfolio" />
+</a>
 </td>
 </tr>
 </table>
@@ -115,7 +118,7 @@ Full-Stack Development
 
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nahuelrosas" target="_blank">
+<a href="https://www.linkedin.com/in/nahuelRosas" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/nahuelRosas" target="_blank">
