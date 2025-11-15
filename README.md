@@ -71,6 +71,19 @@ Full-Stack Development
 </tr>
 </table>
 
+<h3 align="center">My Projects</h3>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/e-commerce-nestjs" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=e-commerce-nestjs&theme=tokyonight" alt="e-commerce-nestjs" />
+</a>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
 <h3 align="center">GitHub Stats</h3>
 
 <table width="100%">
