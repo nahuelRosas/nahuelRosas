@@ -70,6 +70,31 @@ Full-Stack Development
 </tr>
 </table>
 
+<h3 align="center">My Projects</h3>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/xumtech-chatbot-api" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=xumtech-chatbot-api&theme=tokyonight" alt="xumtech-chatbot-api" />
+</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/xumtech-chatbot-ui" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=xumtech-chatbot-ui&theme=tokyonight" alt="xumtech-chatbot-ui" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/amigosecreto" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=amigosecreto&theme=tokyonight" alt="amigosecreto" />
+</a>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
 <h3 align="center">GitHub Stats</h3>
 
 <table width="100%">
