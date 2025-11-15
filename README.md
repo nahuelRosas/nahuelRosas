@@ -24,7 +24,7 @@ Cloud, DevOps & Orchestration
 <td width="25%" valign="top" align="center">
 Backend
 <p align="center">
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=.white" alt="NestJS"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -47,7 +47,6 @@ AI/ML
 <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 </td>
 </tr>
@@ -67,31 +66,6 @@ AI & Data Engineering
 <td width="33%" valign="top" align="center">
 Full-Stack Development
 <p align="center">Building high-quality, scalable applications with modern stacks, specializing in NestJS, React, and TypeScript.</p>
-</td>
-</tr>
-</table>
-
-<h3 align="center">My Projects</h3>
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/nahuelRosas/e-commerce-nestjs" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=e-commerce-nestjs&theme=tokyonight" alt="e-commerce-nestjs" />
-</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/nahuelRosas/google-cloud-terraform" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=google-cloud-terraform&theme=tokyonight" alt="google-cloud-terraform" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/nahuelRosas/gemini-functions-agent" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=gemini-functions-agent&theme=tokyonight" alt="gemini-functions-agent" />
-</a>
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
