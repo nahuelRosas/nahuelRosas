@@ -80,6 +80,9 @@ Full-Stack Development
 </a>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/nahuelRosas/google-cloud-terraform" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nahuelRosas&repo=google-cloud-terraform&theme=tokyonight" alt="google-cloud-terraform" />
+</a>
 </td>
 </tr>
 </table>
