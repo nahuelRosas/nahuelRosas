@@ -63,21 +63,6 @@ Highly motivated Full Stack Developer, DevOps, and Cloud Engineer specializing i
 </tr>
 </table>
 
-<h3 align="center">GitHub Stats</h3>
-<table width="100%" border="0" cellpadding="10">
-<tr>
-<td width="33%" valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nahuelRosas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=300" alt="Nahuel Rosas's GitHub stats" />
-</td>
-<td width="33%" valign="top" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahuelRosas&theme=tokyonight&show_icons=true&hide_border=true&card_width=300" alt="Top Languages" />
-</td>
-<td width="33%" valign="top" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nahuelRosas&theme=tokyonight&hide_border=true&card_width=300" alt="GitHub Streak Stats" />
-</td>
-</tr>
-</table>
-
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/nahuelRosas" target="_blank">
